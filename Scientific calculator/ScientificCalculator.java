@@ -24,7 +24,7 @@ public class ScientificCalculator extends JFrame
       textfield = new JTextField(16);
       im = new ImageIcon("goldenRamLogo.png");
       zerob=new JButton("0");
-      oneb=new JButton("1");
+      oneb=new JButton("11");
       twob=new JButton("2");
       threeb=new JButton("3");
       fourb=new JButton("4");
